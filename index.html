@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>Tokoku</title>
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+    <!-- poppins font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;700&display=swap" rel="stylesheet">
+
+<!-- font awesome -->
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.1.0/css/all.css" integrity="sha512-ajhUYg8JAATDFejqbeN7KbF2zyPbbqz04dgOLyGcYEk/MJD3V+HJhJLKvJ2VVlqrr4PwHeGTTWxbI+8teA7snw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+  </head>
+  <body>
+    <!-- navbar start -->
+    <nav>
+      <div class="brand">
+        <a href="#">TokoKu</a>
+      </div>
+      <ul class="navbar">
+        <li><a href="#">Home</a></li>
+        <li><a href="#kategori">Product</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+      <div class="cart-container">
+    <div class="cart">
+      <i class="fas fa-shopping-cart"></i>
+    </div>
+    <div class="cart-dropdown">
+      <h4>Keranjang Belanja</h4>
+      <ul id="cart-items">
+        <div class="cart">
+  <i class="fas fa-shopping-cart"></i>
+  <span class="count">0</span>
+  <span class="total">Rp.0</span>
+</div>
+
+      </ul>
+      <a href="#" class="btn">Checkout</a>
+    </div>
+  </div>
+    
+      <div class="acount">
+        <button class="dropbtn">Account <i class="fas fa-chevron-down"></i></button>
+        <div class="dropdown-content">
+        <a href="#" type="submit">Login</a>
+        <a href="#" type="submit">Sign up</a>
+        </div>
+      </div>
+      <div class="menu">
+        <i class="fas fa-bars" id="menu-btn"></i>
+      </div>
+    </nav>
+    <!-- navbar end -->
+    
+    <!-- banner start -->
+    <section class="banner">
+      <div class="content-slide">
+        <div class="imgslide fade">
+          <img src="img/banner/banner1.png" alt="" />
+        </div>
+        <div class="imgslide fade">
+          <img src="img/banner/banner2.png" alt="" />
+        </div>
+        <div class="imgslide fade">
+          <img src="img/banner/banner3.png" alt="" />
+        </div>
+        <a class="prev" onClick="nextslide(-1)">&#10094;</a>
+        <a class="next" onClick="nextslide(1)">&#10095;</a> 
+        <div class="page">
+            <span class="dot" onClick="dotslide(1)" id="radio"></span>
+            <span class="dot" onClick="dotslide(2)" id="radio"></span>
+            <span class="dot" onClick="dotslide(3)" id="radio"></span>
+        </div>
+      </div>
+    </section>
+    <!-- banner end -->
+    <!-- produk kategory  start-->
+    <section id="kategori">
+    </section>
+    <!-- produk kategory  end-->
+    <!-- katalog produk start-->
+  <section id="katalog">
+  </section>
+    <!-- katalog produk end -->
+    
+ 
+
+    
+    <script src="js/app.js" type="text/javascript" charset="utf-8"></script>
+  </body>
+</html>

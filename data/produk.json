@@ -1,0 +1,165 @@
+{
+  "produk": [
+    {
+      "id" : 1,
+      "kategori" : "Ponsel",
+      "nama" : "Samsung Galaxy S23",
+      "deskripsi" : "6.8 inch, 200 megapixel, 8/128 RAM, Snapdragon 8 gen 2, 5000mAH",
+      "harga" : 20000000,
+      "gambar" : "samsungs23.webp"
+    },
+    {
+      "id" : 2,
+      "kategori" : "Ponsel",
+      "nama" : "Samsung Galaxy A14",
+      "deskripsi" : "6.6 inch, 50 megapixel, 8/128 RAM,  Mediatek dimenty 700, 5000mAH",
+      "harga" : 2999999,
+      "gambar" : "samsunga14.jpeg"
+    },
+    {
+      "id" : 3,
+      "kategori" : "Ponsel",
+      "nama" : "Iphone 14 Pro Max",
+      "deskripsi" : "6.7 inch, 48 megapixel, 6/128 RAM,  Aple A16 Bionic, 4323mAH",
+      "harga" : 20000000,
+      "gambar" : "iphone14promax.jpg"
+    },
+    {
+       "id" : 4,
+      "kategori" : "Ponsel",
+      "nama" : "Iphone 12",
+      "deskripsi" : "6.1 inch, 12 megapixel, 4/128 RAM, Apple A14 Bionic, 5000mAH",
+      "harga" : 7499000,
+      "gambar" : "iphone11.jpg"
+    },
+    {
+      "id" : 5,
+      "kategori" : "Fashion",
+      "nama" : "Jaket Tracking",
+      "deskripsi" : "Sangat nyaman untuk digunakan ketika aktivitas di luar",
+      "harga" : 500000,
+      "gambar" : "jaket.jpg"
+    },
+    {
+      "id" : 6,
+      "kategori" : "Fashion",
+      "nama" : "Kaos Adidas",
+      "deskripsi" : "Kaos ini terbuat dari bahan elatis, sehingga sangat cocok digunakan ketika aktivitas seperti olahraga",
+      "harga" : 1000000,
+      "gambar" : "product1.jpg"
+    },
+    {
+      "id" : 7,
+      "kategori" : "Ponsel",
+      "nama" : "Adidas Airpods",
+      "deskripsi" : "Bisa menemani Anda di berbagai aktivitas sehari-hari",
+      "harga" : 1000000,
+      "gambar" : "product2.jpg"
+    },
+    {
+      "id" : 8,
+      "kategori" : "Fashion",
+      "nama" : "Adidas Jaket",
+      "deskripsi" : "Cocok digunakan di kala musim dingin atau penghujan",
+      "harga" : 1000000,
+      "gambar" : "product3.jpg"
+    },
+    {
+      "id" : 9,
+      "kategori" : "Fashion",
+      "nama" : "Adidas Tupperware",
+      "deskripsi" : "botol minum cocok di aktvitas luar ruangan",
+      "harga" : 500000,
+      "gambar" : "product4.jpg"
+    },
+    {
+      "id" : 10,
+      "kategori" : "Fashion",
+      "nama" : "Kacamata",
+      "deskripsi" : "Kacamata untuk liburan, atau di luar ruangan melindungi dari panas matahari",
+      "harga" : 500000,
+      "gambar" : "product5.jpg"
+    },
+    {
+      "id" : 11,
+      "kategori" : "Fashion",
+      "nama" : "Topi Adidas",
+      "deskripsi" : "Liburan gak usah takut panas, kami menyediakan Topi yang cocok untuk kamu",
+      "harga" : 500000,
+      "gambar" : "product6.jpg"
+    },
+    {
+      "id" : 12,
+      "kategori" : "Fashion",
+      "nama" : "Tracking Bag",
+      "deskripsi" : "Tas ini cocok digunakan saat ativitas di alam bebas",
+      "harga" : 1000000,
+      "gambar" : "product7.jpg"
+    },
+    {
+      "id" : 13,
+      "kategori" : "Shoes",
+      "nama" : "Adidas Sport Shoes",
+      "deskripsi" : "Nyaman digunakan saat aktivitas olahraga, seperti jogging",
+      "harga" : 1000000,
+      "gambar" : "product8.jpg"
+    },
+    {
+      "id" : 14,
+      "kategori" : "Skincare",
+      "nama" : "1 pcs Skincare",
+      "deskripsi" : "1 paket lebih hemat, untuk perawatan tubuh anda",
+      "harga" : 500000,
+      "gambar" : "skincare.avif"
+    },
+    {
+      "id" : 15,
+      "kategori" : "Skincare",
+      "nama" : "1 pcs skincare + Serum",
+      "deskripsi" : "1 paket lebih hemat, untuk perawatan tubuh anda",
+      "harga" : 500000,
+      "gambar" : "skincare1.jpeg"
+    },
+    {
+      "id" : 16,
+      "kategori" : "Fashion",
+      "nama" : "T shirt",
+      "deskripsi" : "Kaos Kasual dan elegan. Cocok digunakan di kantor, bepergian, olahraga",
+      "harga" : 20000000,
+      "gambar" : "tshirt.webp"
+    },
+    {
+      "id" : 17,
+      "kategori" : "Shoes",
+      "nama" : "Sneaker",
+      "deskripsi" : "Sneaker merah, bisa digunakan saat liburan",
+      "harga" : 200000,
+      "gambar" : "sneaker.webp"
+    },
+    {
+      "id" : 18,
+      "kategori" : "Watch",
+      "nama" : "Galaxy Watch 5",
+      "deskripsi" : "Galaxy Watch5 Silver 40mm Bluetooth Sport Band Purple S/M",
+      "harga" : 499000,
+      "gambar" : "galaxywatch5.avif"
+    },
+    {
+      "id" : 19,
+      "kategori" : "Laptop",
+      "nama" : "ASUS ROG Zephyrus G14",
+      "deskripsi" : "Processor: AMD Ryzen 9 5900HS, RAM: 8GB, SSD: 512GB, VGA: NVIDIA GeForce RTX 3050 4GB GDDR6, Ukuran Layar: 14 Inch FHD IPS 120Hz, Konektivitas: Wifi + Bluetooth, Sistem Operasi: Windows 10 Home + Office Home and Student 2019",
+      "harga" : 21499000,
+      "gambar" : "asusrog.jpg"
+    },
+    {
+      "id" : 20,
+      "kategori" : "Laptop",
+      "nama" : "ASUS Vivobook Pro 16X 3D OLED (K6604)",
+      "deskripsi" : "Windows 11 Pro - ASUS recommends Windows 11 Pro for business, Up to 3.2K 120 Hz 3D OLED display, Up to Intel® Core™ i9 HX55 processor, Up to NVIDIA® GeForce RTX 4070 GPU, Up to 64 GB DDR5 with dual SO-DIMM, Up to 2 TB SSD with one M.2 Slot, ASUS IceCool Pro thermal technology, Dual Thunderbolt™ 4 for up to 40Mbps",
+      "harga" : 19299000,
+      "gambar" : "asusvivo.png"
+    }
+    
+    ]
+}
